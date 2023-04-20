@@ -31,6 +31,8 @@ This tool allows you to scrape data from your Instagram profile, which including
 
 3. Once you are logged in, the script will scrape your followers' usernames and profile links, their post, their followers,their following  and save them to a  `result.csv`  file in the same directory.
 
+4. Alternatively, if you only need your followers list and not the entire tool, you can get it by opening Instagram in your browser, navigating to your profile page, clicking on the "Followers" button, opening the browser console (usually with the F12 key), and pasting the `script.js` code from the repository into the console. This will print the list of your followers' usernames to the console.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
