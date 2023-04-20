@@ -1,6 +1,6 @@
 # Instagram Web Scraping Tool
 
-This tool allows you to scrape data from your Instagram profile, which including your followers' usernames and their post count, followers, following. It uses the `selenium` package to automate interactions with the Instagram website.
+This tool allows you to scrape data from your Instagram profile, including your followers' usernames and their post count, followers, and following. It uses the `selenium` package to automate interactions with the Instagram website.
 
 ## Installation
 
